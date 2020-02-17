@@ -7,8 +7,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74e4c365-19f6-422d-8fc2-e26ae557dca3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/unnamed.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/index.jsp" afterDir="false" />
     </list>
@@ -27,21 +25,16 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="test" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="32" column="35" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="35" />
-              <folding>
-                <element signature="e#721#1419#1#JAVA" />
-                <element signature="e#2683#3332#0#JAVA" />
-                <element signature="e#3599#3664#0#JAVA" />
-                <element signature="e#3262#4000#0#JAVA" />
-                <element signature="n#style#0;n#h1#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#input#0;n#form#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="237">
+              <caret line="22" column="63" lean-forward="true" selection-start-line="22" selection-start-column="63" selection-end-line="22" selection-end-column="63" />
             </state>
           </provider>
         </entry>
@@ -305,12 +298,14 @@
       <updated>1581138393144</updated>
       <workItem from="1581138395211" duration="13054000" />
       <workItem from="1581316647249" duration="538000" />
-      <workItem from="1581317232692" duration="23223000" />
+      <workItem from="1581317232692" duration="29684000" />
+      <workItem from="1581738514746" duration="218000" />
+      <workItem from="1581946090152" duration="2139000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36815000" />
+    <option name="totallyTimeSpent" value="45633000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -325,18 +320,16 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18597998" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4990619" visible="true" weight="0.19027181" />
+      <window_info id="Structure" order="1" sideWeight="0.50093806" side_tool="true" weight="0.1881259" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Application Servers" weight="0.32891566" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info id="Favorites" order="6" sideWeight="0.50093806" side_tool="true" weight="0.1881259" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.14096385" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.14096385" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -344,8 +337,10 @@
       <window_info anchor="bottom" id="Docker" order="7" weight="0.32891566" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.35783133" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32048193" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Application Servers" order="12" weight="0.32891566" />
+      <window_info anchor="bottom" id="Messages" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -368,16 +363,8 @@
     <entry file="jspclass:///Users/minjiashi/apache-tomcat-9.0.30/webapps/test/index.jsp" />
     <entry file="file://$PROJECT_DIR$/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="32" column="35" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="35" />
-          <folding>
-            <element signature="e#721#1419#1#JAVA" />
-            <element signature="e#2683#3332#0#JAVA" />
-            <element signature="e#3599#3664#0#JAVA" />
-            <element signature="e#3262#4000#0#JAVA" />
-            <element signature="n#style#0;n#h1#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#0;n#form#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="237">
+          <caret line="22" column="63" lean-forward="true" selection-start-line="22" selection-start-column="63" selection-end-line="22" selection-end-column="63" />
         </state>
       </provider>
     </entry>
